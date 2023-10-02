@@ -1,1 +1,13 @@
 /* your code */
+table{
+	border:2px solid ;
+	border-radius:5px;
+	width:600px;
+	padding:5px;
+}
+tr{
+	background-color:beige;
+  }
+td{
+	text-align:center;
+}
